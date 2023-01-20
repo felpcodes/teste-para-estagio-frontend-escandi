@@ -16,10 +16,10 @@ Caso queira, utilize pré-processadores (Less, SASS ou Stylus).
 ### Material 
 
 * Desktop:
-<img src="https://github.com/felpcodes/teste-para-frontend-escandi/blob/main/layout/desktop.jpg" width="768px">
+<img src="https://github.com/felpcodes/teste-para-estagio-frontend-escandi/blob/main/layout/desktop.jpg" width="768px">
 
 * Mobile:
-<img src="https://github.com/felpcodes/teste-para-frontend-escandi/blob/main/layout/mobile.jpg" width="200px">
+<img src="https://github.com/felpcodes/teste-para-estagio-frontend-escandi/blob/main/layout/mobile.jpg" width="200px">
 
 ### Atenção
 
