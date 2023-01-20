@@ -9,9 +9,7 @@
 2. Nós queremos avaliar o seu nível de conhecimento em design responsivo (Responsive Web Design) usando HTML5, CSS3.
 Caso queira, utilize pré-processadores (Less, SASS ou Stylus).
 
-3. Não é interessante que use frameworks como Bootstrap. É ideal que escreva o código completo. 
-
-4. Não tenha pressa! Iremos avaliar a qualidade do seu código, mesmo incompleto e principalmente a sua semântica.
+3. Não tenha pressa! Iremos avaliar a qualidade do seu código, mesmo incompleto e principalmente a sua semântica.
 
 ### Material 
 
@@ -29,6 +27,7 @@ Caso queira, utilize pré-processadores (Less, SASS ou Stylus).
 * A fonte utilizada é a Poppins, disponível no Google Fonts.
 * É permitido usar qualquer editor de código e consultar a internet.
 * Suporte de Browsers: IE9+, Chrome, Safari, Firefox.
+* Não é interessante que use frameworks como Bootstrap. É ideal que escreva o código completo.
 
 Ao terminar o teste, solicite um pull request. 
 
